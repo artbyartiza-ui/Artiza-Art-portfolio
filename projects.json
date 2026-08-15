@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Children's Books",
+    "Character Design",
+    "Book Covers",
+    "Educational Illustration",
+    "Coloring Books",
+    "Selected Projects"
+  ],
+  "projects": [
+    {
+      "id": "cb-placeholder-1",
+      "title": "[Add project title]",
+      "category": "Children's Books",
+      "description": "[Short description — client, theme, or age range]",
+      "coverImage": "assets/images/childrens-books/placeholder.jpg",
+      "gallery": [],
+      "link": ""
+    },
+    {
+      "id": "cd-placeholder-1",
+      "title": "[Add project title]",
+      "category": "Character Design",
+      "description": "[Short description]",
+      "coverImage": "assets/images/character-design/placeholder.jpg",
+      "gallery": [],
+      "link": ""
+    },
+    {
+      "id": "bc-placeholder-1",
+      "title": "[Add project title]",
+      "category": "Book Covers",
+      "description": "[Short description]",
+      "coverImage": "assets/images/book-covers/placeholder.jpg",
+      "gallery": [],
+      "link": ""
+    },
+    {
+      "id": "ei-placeholder-1",
+      "title": "[Add project title]",
+      "category": "Educational Illustration",
+      "description": "[Short description]",
+      "coverImage": "assets/images/educational-illustration/placeholder.jpg",
+      "gallery": [],
+      "link": ""
+    },
+    {
+      "id": "col-placeholder-1",
+      "title": "[Add project title]",
+      "category": "Coloring Books",
+      "description": "[Short description]",
+      "coverImage": "assets/images/coloring-books/placeholder.jpg",
+      "gallery": [],
+      "link": ""
+    },
+    {
+      "id": "sp-placeholder-1",
+      "title": "[Add project title]",
+      "category": "Selected Projects",
+      "description": "[Short description]",
+      "coverImage": "assets/images/selected-projects/placeholder.jpg",
+      "gallery": [],
+      "link": ""
+    }
+  ]
+}
